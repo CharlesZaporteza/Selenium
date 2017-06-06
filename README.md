@@ -1,2 +1,2 @@
 # Selenium
-Automated Testing
+Automated Testing for HTML Website
